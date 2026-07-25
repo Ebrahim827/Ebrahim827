@@ -23,11 +23,11 @@ Some things I've built throughout my journey:
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/muhammad-ebrahim-imran-6974b0380/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Ebrahim827">
- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://mebrahimimran.vercel.app">
