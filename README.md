@@ -1,56 +1,87 @@
-<h1 align="left">Muhammad Ebrahim</h1>
+# Muhammad Ebrahim
 
-<p align="left">
-Artificial Intelligence Undergraduate @ NUST<br>
-Building AI-powered applications, scalable software, and intelligent systems.
-</p>
+**Artificial Intelligence Undergraduate @ NUST**
 
-<p align="left">
-<a href="https://mebrahimimran.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+*Building intelligent systems, machine learning solutions, and scalable software.*
+
+<table>
+<tr>
+<td valign="top" width="260">
+
+### Contact
+
+<a href="https://mebrahimimran.vercel.app">
+<img src="https://cdn.simpleicons.org/vercel" width="18"/> mebrahimimran.vercel.app
 </a>
 
-<a href="https://github.com/Ebrahim827" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br>
+
+<a href="https://github.com/Ebrahim827">
+<img src="https://cdn.simpleicons.org/github" width="18"/> github.com/Ebrahim827
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-ebrahim-imran-6974b0380/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://cdn.simpleicons.org/linkedin" width="18"/> linkedin.com/in/YOUR_LINKEDIN_USERNAME
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<br>
 
----
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" width="18"/> YOUR_EMAIL@gmail.com
+</a>
+
+</td>
+
+<td valign="top">
 
 ## Current Focus
 
-I'm an Artificial Intelligence undergraduate at **NUST** passionate about building software that combines machine learning with practical engineering. I enjoy solving challenging problems, learning modern technologies, and turning ideas into products that people can actually use.
+I'm an Artificial Intelligence undergraduate at **NUST** with a strong interest in building practical AI applications and scalable software systems.
 
 Some things I've worked on throughout my journey:
 
-- Built an **AI-powered Posture Prediction System** using Arduino, Python, and Machine Learning for real-time posture monitoring.
+- Built an AI-powered **Posture Prediction System** using Arduino, Python, and Machine Learning for real-time posture monitoring.
 
-- Developed **TankBattle**, a multiplayer browser game featuring real-time gameplay and backend networking.
+- Developed **TankBattle**, a multiplayer browser game with real-time networking.
 
-- Experienced with designing algorithms, backend APIs, databases, and interactive web applications.
+- Building full-stack applications while exploring Machine Learning, Deep Learning, and backend engineering.
 
-- Currently exploring **Large Language Models (LLMs)**, Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), and AI agents.
-
-- Continuously improving my understanding of software architecture, cloud deployment, and scalable system design.
+- Currently learning **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Computer Vision, and scalable backend systems.**
 
 ---
 
-## Tech Stack
+**Tech Stack:**
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,fastapi,mysql,postgres,mongodb,git,github,docker,vscode&perline=8"/>
-
-</p>
+Python, Java, C++, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, SQL, PostgreSQL, MySQL, MongoDB, Git, GitHub, Docker, Arduino, Machine Learning, Deep Learning
 
 ---
 
-> *"Build things that matter. Learn something every day."*
+### Connect with me
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://cdn.simpleicons.org/linkedin" width="38"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Ebrahim827">
+<img src="https://cdn.simpleicons.org/github" width="38"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://mebrahimimran.vercel.app">
+<img src="https://cdn.simpleicons.org/vercel" width="38"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" width="38"/>
+</a>
+
+</td>
+</tr>
+</table>
