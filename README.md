@@ -12,7 +12,7 @@ Some things I've built throughout my journey:
 
 - Developed **TankBattle**, a multiplayer browser game with real-time networking and modern web technologies.
 
-- Worked with Python, Java, C++, JavaScript and SQL to build algorithms, backend services and full-stack applications.
+- Experienced with designing algorithms, backend APIs, databases, and interactive web applications.
 
 - Currently exploring **Large Language Models (LLMs), Deep Learning, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG)** and scalable backend systems.
 
@@ -22,7 +22,7 @@ Some things I've built throughout my journey:
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/muhammad-ebrahim-imran-6974b0380/">
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38"/>
 </a>
 &nbsp;&nbsp;
