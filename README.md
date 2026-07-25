@@ -1,4 +1,4 @@
-# Muhammad Ebrahim
+# Muhammad Ebrahim Imran
 
 ---
 
@@ -18,7 +18,7 @@ Some things I've built throughout my journey:
 
 ---
 
-**Stack:** Python, Java, C++, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, MySQL, MongoDB, Docker, Git, GitHub, Machine Learning, Deep Learning, Computer Vision, Arduino.
+**Stack:** Python, Java, C++, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI,  MySQL, Git, GitHub, Machine Learning, Deep Learning, Computer Vision, Arduino.
 
 ## Connect with me:
 
@@ -33,6 +33,6 @@ Some things I've built throughout my journey:
 <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="38"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muhammadebrahimimran7@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38"/>
 </a>
