@@ -27,8 +27,7 @@ Some things I've built throughout my journey:
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Ebrahim827">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
+<img src="https://api.iconify.design/mdi/github.svg?color=%238b5cf6" width="40"/></a>
 &nbsp;&nbsp;
 <a href="https://mebrahimimran.vercel.app">
 <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="38"/>
