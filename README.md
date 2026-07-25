@@ -30,7 +30,7 @@ Some things I've built throughout my journey:
 <img src="https://api.iconify.design/mdi/github.svg?color=%238b5cf6" width="40"/></a>
 &nbsp;&nbsp;
 <a href="https://mebrahimimran.vercel.app">
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="38"/>
+<img src="https://img.icons8.com/color/48/domain.png" width="38">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:muhammadebrahimimran7@gmail.com">
