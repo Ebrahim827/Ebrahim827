@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A2E1A&height=200&section=header&text=Muhammad%20Ebrahim%20Imran&fontSize=42&fontColor=CCFF00&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0F766E,100:CCFF00&height=200&section=header&text=Muhammad%20Ebrahim%20Imran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A2E1A&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:CCFF00&height=3&width=100%" width="100%"/>
 
 ## 🎯 Current Focus
 
@@ -19,34 +19,34 @@ Some things I've built throughout my journey:
 - ⚙️ Experienced with designing algorithms, backend APIs, databases, and interactive web applications.
 - 🚀 Currently exploring **Large Language Models (LLMs), Deep Learning, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG)** and scalable backend systems.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A2E1A&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:CCFF00&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-1A2E1A?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-1A2E1A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-1A2E1A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-1A2E1A?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-1A2E1A?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/React-0F0F0F?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-0F0F0F?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-0F0F0F?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-0F0F0F?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-0F0F0F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Git-CCFF00?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-CCFF00?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-CCFF00?style=for-the-badge&logo=tensorflow&logoColor=black"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-CCFF00?style=for-the-badge&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/Arduino-CCFF00?style=for-the-badge&logo=arduino&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CCFF00,100:1A2E1A&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:CCFF00&height=3&width=100%" width="100%"/>
 
 ## 🔗 Connect with me
 
@@ -69,4 +69,4 @@ Some things I've built throughout my journey:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A2E1A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:0F766E,100:134E4A&height=100&section=footer" width="100%"/>
